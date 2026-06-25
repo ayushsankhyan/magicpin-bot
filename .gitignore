@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Test artifacts
+.pytest_cache/
+
+# Build
+dist/
+build/
+
+# Coverage
+.coverage
+htmlcov/

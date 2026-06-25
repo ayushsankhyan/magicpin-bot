@@ -1,0 +1,602 @@
+[
+  {
+    "trigger_id": "trg_001_research_digest_dentists",
+    "merchant_id": "m_001_drmeera_dentist_delhi",
+    "message": "You recently asked about whitening.\n\nA new research update could help Dr. Meera's Dental Clinic answer patient questions more confidently and improve consultation quality.\n\nWould you like the 2-minute summary?",
+    "health_score": 80
+  },
+  {
+    "trigger_id": "trg_002_compliance_dci_radiograph",
+    "merchant_id": "m_001_drmeera_dentist_delhi",
+    "message": "A new compliance update may affect Dr. Meera's Dental Clinic.\n\nRequired action should be completed before 2026-12-15.\n\nWould you like a quick summary?",
+    "health_score": 80
+  },
+  {
+    "trigger_id": "trg_003_recall_due_priya",
+    "merchant_id": "m_001_drmeera_dentist_delhi",
+    "message": "A customer is due for 6_month_cleaning at Dr. Meera's Dental Clinic.\n\nTimely follow-ups often increase repeat visits.\n\nWould you like a reminder draft?",
+    "health_score": 80
+  },
+  {
+    "trigger_id": "trg_004_perf_dip_bharat",
+    "merchant_id": "m_002_bharat_dentist_mumbai",
+    "message": "Bharat Dental Care received 980 profile views, but only 1.8% of visitors are clicking through.\n\nYour active offer 'your dental services' may not be getting enough visibility around Andheri West, which could be limiting new customer enquiries.\n\nWould you like 3 ideas to improve conversions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_005_renewal_due_bharat",
+    "merchant_id": "m_002_bharat_dentist_mumbai",
+    "message": "Bharat Dental Care generated 980 views and 2 leads recently.\n\nYour Pro plan renews in 12 days (\u20b94999).\n\nWould you like a performance summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_006_festival_diwali",
+    "merchant_id": "m_003_studio11_salon_hyderabad",
+    "message": "Diwali may increase demand around Hyderabad.\n\nYour offer 'Haircut @ \u20b999' could help attract new customers.\n\nWould you like campaign ideas?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_007_bridal_followup_kavya",
+    "merchant_id": "m_003_studio11_salon_hyderabad",
+    "message": "A bridal customer is 196 days away from their wedding.\n\nThis could be a good time to discuss preparation packages.\n\nWould you like a follow-up draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_008_curious_ask_studio11",
+    "merchant_id": "m_003_studio11_salon_hyderabad",
+    "message": "You recently explored growth ideas for Studio11 Family Salon.\n\nThere may be opportunities around Kapra worth testing.\n\nWould you like suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_009_winback_glamour",
+    "merchant_id": "m_004_glamour_salon_pune",
+    "message": "Past customers of Glamour Lounge Spa & Salon may be ready to return with the right offer.\n\nYour 'your beauty services' promotion could help restart engagement.\n\nWould you like a win-back strategy?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_010_ipl_match_delhi",
+    "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+    "message": "DC vs MI is scheduled today at Arun Jaitley Stadium.\n\nYour offer 'Buy 1 Pizza Get 1 Free (Tue-Thu)' could help attract match-day orders.\n\nWould you like a promotion idea?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_011_review_theme_late_delivery",
+    "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+    "message": "4 recent reviews mention 'delivery_late'.\n\nAddressing this trend could improve ratings, customer trust, and future enquiries.\n\nWould you like 3 recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_012_milestone_mylari",
+    "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+    "message": "Congratulations.\n\nMylari South Indian Cafe has reached 12400 profile views and generated 145 leads.\n\nThis is a strong opportunity to build on recent momentum. Your active offer 'Weekday Lunch Thali @ \u20b9149' could help convert this visibility into even more enquiries.\n\nWould you like 3 ideas to accelerate growth?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_013_corporate_thali_planning",
+    "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+    "message": "You appear to be actively planning business growth.\n\nMylari South Indian Cafe already receives 12400 profile views.\n\nWould you like next-step recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_014_seasonal_acquisition_dip_powerhouse",
+    "merchant_id": "m_007_powerhouse_gym_bangalore",
+    "message": "Recent visibility appears lower than usual, but current patterns look seasonal.\n\nThis may be a good time to test new acquisition ideas.\n\nWould you like suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_015_winback_rashmi",
+    "merchant_id": "m_007_powerhouse_gym_bangalore",
+    "message": "Several customers appear inactive for an extended period at PowerHouse Fitness.\n\nA stronger re-engagement offer may help recover lost customers.\n\nWould you like campaign ideas?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_016_kids_yoga_program_drafting",
+    "merchant_id": "m_008_zenyoga_gym_chennai",
+    "message": "You appear to be actively planning business growth.\n\nZen Yoga Studio already receives 880 profile views.\n\nWould you like next-step recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_017_kids_yoga_trial_followup_karthik",
+    "merchant_id": "m_008_zenyoga_gym_chennai",
+    "message": "Someone recently showed interest in First Month @ \u20b9499.\n\nA quick follow-up often improves conversion rates.\n\nWould you like a follow-up draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_018_supply_atorvastatin_recall",
+    "merchant_id": "m_009_apollo_pharmacy_jaipur",
+    "message": "A supply alert has been issued for atorvastatin.\n\nReviewing inventory and customer communication may help avoid disruption.\n\nWould you like a summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_019_chronic_refill_grandfather",
+    "merchant_id": "m_009_apollo_pharmacy_jaipur",
+    "message": "Several customers may soon require medication refills.\n\nTimely refill reminders can help improve continuity of care.\n\nWould you like a refill outreach plan?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_020_summer_demand_shift",
+    "merchant_id": "m_009_apollo_pharmacy_jaipur",
+    "message": "Current seasonal trends show ORS_demand_+40 in Jaipur.\n\nYour offer 'Free Home Delivery > \u20b9499' may help capture this demand.\n\nWould you like recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_021_unverified_gbp_sunrise",
+    "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+    "message": "Your business profile may still require verification.\n\nVerified listings can improve visibility significantly.\n\nWould you like verification steps?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_022_cde_webinar_dentists",
+    "merchant_id": "m_001_drmeera_dentist_delhi",
+    "message": "A continuing education opportunity worth 2 credits is available.\n\nIt may be relevant for dental professionals.\n\nWould you like details?",
+    "health_score": 80
+  },
+  {
+    "trigger_id": "trg_023_competitor_opened_dentist",
+    "merchant_id": "m_001_drmeera_dentist_delhi",
+    "message": "A new competitor appears to be targeting customers near Lajpat Nagar.\n\nDr. Meera's Dental Clinic already attracts 2410 profile views. Highlighting your active offer 'Dental Cleaning @ \u20b9299' could help maintain visibility and attract more customers.\n\nWould you like 3 ideas to stay ahead?",
+    "health_score": 80
+  },
+  {
+    "trigger_id": "trg_024_perf_spike_zen",
+    "merchant_id": "m_008_zenyoga_gym_chennai",
+    "message": "Zen Yoga Studio is attracting stronger engagement than usual, with 880 profile views and 12 recent leads.\n\nYour active offer 'First Month @ \u20b9499' could help convert this increased interest into more customers across Chennai.\n\nWould you like 3 ideas to build on this momentum?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_025_dormancy_glamour",
+    "merchant_id": "m_004_glamour_salon_pune",
+    "message": "It's been a while since we discussed growth opportunities for Glamour Lounge Spa & Salon.\n\nMarket conditions may have changed in Pune.\n\nWould you like an updated action plan?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_026_research_digest_m_017_dr_rajan_denti",
+    "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+    "message": "A new dental research update is available for City Dental Clinic.\n\nIt may help answer patient questions more confidently during consultations.\n\nWould you like the 2-minute summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_027_research_digest_m_037_pooja_gym_bang",
+    "merchant_id": "m_037_pooja_gym_bangalore",
+    "message": "A new fitness industry insight is available for Bend & Burn.\n\nIt may help improve member engagement and encourage new sign-ups.\n\nWould you like the summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_028_research_digest_m_019_karim_salon_lu",
+    "merchant_id": "m_019_karim_salon_lucknow",
+    "message": "A new beauty industry trend report is available for Karim's Salon.\n\nIt may help you recommend popular services and improve customer conversations.\n\nWould you like the summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_029_research_digest_m_050_bharti_pharmac",
+    "merchant_id": "m_050_bharti_pharmacie_chennai",
+    "message": "A new pharmacy industry update is available for Wellness Cart.\n\nIt may help answer customer questions and prepare for changing demand.\n\nWould you like the summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_030_research_digest_m_002_bharat_dentist",
+    "merchant_id": "m_002_bharat_dentist_mumbai",
+    "message": "You recently asked about patient acquisition.\n\nA new research update could help Bharat Dental Care answer patient questions more confidently and improve consultation quality.\n\nWould you like the 2-minute summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_031_perf_dip_m_023_sushma_salon_p",
+    "merchant_id": "m_023_sushma_salon_pune",
+    "message": "The Beauty Bar received 2547 profile views, but only 5.8% of visitors are clicking through.\n\nYour active offer 'your beauty services' may not be getting enough visibility around Baner, which could be limiting new customer enquiries.\n\nWould you like 3 ideas to improve conversions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_032_perf_dip_m_020_renu_salon_luc",
+    "merchant_id": "m_020_renu_salon_lucknow",
+    "message": "Beauty Lounge by Renu received 2945 profile views, but only 5.1% of visitors are clicking through.\n\nYour active offer 'your beauty services' may not be getting enough visibility around Gomti Nagar, which could be limiting new customer enquiries.\n\nWould you like 3 ideas to improve conversions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_033_perf_dip_m_022_renu_salon_ahm",
+    "merchant_id": "m_022_renu_salon_ahmedabad",
+    "message": "Beauty Lounge by Renu received 3135 profile views, but only 4.1% of visitors are clicking through.\n\nYour active offer 'your beauty services' may not be getting enough visibility around Thaltej, which could be limiting new customer enquiries.\n\nWould you like 3 ideas to improve conversions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_034_perf_dip_m_047_anil_pharmacie",
+    "merchant_id": "m_047_anil_pharmacie_chandigarh",
+    "message": "Healthwell Pharmacy received 2307 profile views, but only 3.1% of visitors are clicking through.\n\nYour active offer 'your healthcare products' may not be getting enough visibility around Mohali, which could be limiting new customer enquiries.\n\nWould you like 3 ideas to improve conversions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_035_perf_dip_m_041_akash_gym_hyde",
+    "merchant_id": "m_041_akash_gym_hyderabad",
+    "message": "Fit Republic received 3185 profile views, but only 1.9% of visitors are clicking through.\n\nYour active offer 'your membership plans' may not be getting enough visibility around Gachibowli, which could be limiting new customer enquiries.\n\nWould you like 3 ideas to improve conversions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_036_perf_spike_m_010_sunrisepharm_p",
+    "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+    "message": "Sunrise Medicos is attracting stronger engagement than usual, with 720 profile views and 8 recent leads.\n\nYour active offer 'your healthcare products' could help convert this increased interest into more customers across Lucknow.\n\nWould you like 3 ideas to build on this momentum?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_037_perf_spike_m_023_sushma_salon_p",
+    "merchant_id": "m_023_sushma_salon_pune",
+    "message": "The Beauty Bar is attracting stronger engagement than usual, with 2547 profile views and 10 recent leads.\n\nYour active offer 'your beauty services' could help convert this increased interest into more customers across Pune.\n\nWould you like 3 ideas to build on this momentum?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_038_perf_spike_m_028_karim_restaura",
+    "merchant_id": "m_028_karim_restaurant_chennai",
+    "message": "Kabab Junction is attracting stronger engagement than usual, with 5251 profile views and 19 recent leads.\n\nYour active offer 'your popular menu items' could help convert this increased interest into more customers across Chennai.\n\nWould you like 3 ideas to build on this momentum?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_039_perf_spike_m_017_dr_rajan_denti",
+    "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+    "message": "City Dental Clinic is attracting stronger engagement than usual, with 5466 profile views and 5 recent leads.\n\nYour active offer 'your dental services' could help convert this increased interest into more customers across Mumbai.\n\nWould you like 3 ideas to build on this momentum?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_040_perf_spike_m_019_karim_salon_lu",
+    "merchant_id": "m_019_karim_salon_lucknow",
+    "message": "Karim's Salon is attracting stronger engagement than usual, with 756 profile views and 1 recent leads.\n\nYour active offer 'your beauty services' could help convert this increased interest into more customers across Lucknow.\n\nWould you like 3 ideas to build on this momentum?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_041_milestone_reached_m_032_mukesh_restaur",
+    "merchant_id": "m_032_mukesh_restaurant_pune",
+    "message": "Congratulations.\n\nPizza Spot has reached 787 profile views and generated 0 leads.\n\nThis is a strong opportunity to build on recent momentum. Your active offer 'your popular menu items' could help convert this visibility into even more enquiries.\n\nWould you like 3 ideas to accelerate growth?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_042_milestone_reached_m_030_sandeep_restau",
+    "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+    "message": "Congratulations.\n\nTandoor Treats has reached 3561 profile views and generated 3 leads.\n\nThis is a strong opportunity to build on recent momentum. Your active offer 'your popular menu items' could help convert this visibility into even more enquiries.\n\nWould you like 3 ideas to accelerate growth?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_043_milestone_reached_m_026_karim_salon_ah",
+    "merchant_id": "m_026_karim_salon_ahmedabad",
+    "message": "Congratulations.\n\nKarim's Salon has reached 5344 profile views and generated 9 leads.\n\nThis is a strong opportunity to build on recent momentum. Your active offer 'your beauty services' could help convert this visibility into even more enquiries.\n\nWould you like 3 ideas to accelerate growth?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_044_milestone_reached_m_026_karim_salon_ah",
+    "merchant_id": "m_026_karim_salon_ahmedabad",
+    "message": "Congratulations.\n\nKarim's Salon has reached 5344 profile views and generated 9 leads.\n\nThis is a strong opportunity to build on recent momentum. Your active offer 'your beauty services' could help convert this visibility into even more enquiries.\n\nWould you like 3 ideas to accelerate growth?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_045_milestone_reached_m_005_pizzajunction_",
+    "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+    "message": "Congratulations.\n\nSK Pizza Junction has reached 2200 profile views and generated 4 leads.\n\nThis is a strong opportunity to build on recent momentum. Your active offer 'Buy 1 Pizza Get 1 Free (Tue-Thu)' could help convert this visibility into even more enquiries.\n\nWould you like 3 ideas to accelerate growth?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_046_dormant_with_vera_m_029_anand_restaura",
+    "merchant_id": "m_029_anand_restaurant_chandigarh",
+    "message": "It's been a while since we discussed growth opportunities for Chai Point Cafe.\n\nMarket conditions may have changed in Chandigarh.\n\nWould you like an updated action plan?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_047_dormant_with_vera_m_047_anil_pharmacie",
+    "merchant_id": "m_047_anil_pharmacie_chandigarh",
+    "message": "It's been a while since we discussed growth opportunities for Healthwell Pharmacy.\n\nMarket conditions may have changed in Chandigarh.\n\nWould you like an updated action plan?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_048_dormant_with_vera_m_048_vinod_pharmaci",
+    "merchant_id": "m_048_vinod_pharmacie_mumbai",
+    "message": "It's been a while since we discussed growth opportunities for Family Health Pharmacy.\n\nMarket conditions may have changed in Mumbai.\n\nWould you like an updated action plan?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_049_dormant_with_vera_m_041_akash_gym_hyde",
+    "merchant_id": "m_041_akash_gym_hyderabad",
+    "message": "It's been a while since we discussed growth opportunities for Fit Republic.\n\nMarket conditions may have changed in Hyderabad.\n\nWould you like an updated action plan?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_050_dormant_with_vera_m_018_dr_asha_dentis",
+    "merchant_id": "m_018_dr_asha_dentist_ahmedabad",
+    "message": "It's been a while since we discussed growth opportunities for Asha Dental Care.\n\nMarket conditions may have changed in Ahmedabad.\n\nWould you like an updated action plan?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_051_review_theme_emerged_m_020_renu_salon_luc",
+    "merchant_id": "m_020_renu_salon_lucknow",
+    "message": "Recent customer reviews mention 'service quality'.\n\nBuilding on this positive feedback could help strengthen your reputation.\n\nWould you like 3 recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_052_review_theme_emerged_m_035_manisha_gym_de",
+    "merchant_id": "m_035_manisha_gym_delhi",
+    "message": "Recent customer reviews mention 'member experience'.\n\nBuilding on this positive feedback could help strengthen your reputation.\n\nWould you like 3 recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_053_review_theme_emerged_m_025_salim_salon_mu",
+    "merchant_id": "m_025_salim_salon_mumbai",
+    "message": "Recent customer reviews mention 'service quality'.\n\nBuilding on this positive feedback could help strengthen your reputation.\n\nWould you like 3 recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_054_review_theme_emerged_m_045_vinod_pharmaci",
+    "merchant_id": "m_045_vinod_pharmacie_mumbai",
+    "message": "Recent customer reviews mention 'staff support'.\n\nBuilding on this positive feedback could help strengthen your reputation.\n\nWould you like 3 recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_055_review_theme_emerged_m_020_renu_salon_luc",
+    "merchant_id": "m_020_renu_salon_lucknow",
+    "message": "Recent customer reviews mention 'service quality'.\n\nBuilding on this positive feedback could help strengthen your reputation.\n\nWould you like 3 recommendations?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_056_competitor_opened_m_006_southindiancaf",
+    "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+    "message": "A new competitor appears to be targeting customers near Indiranagar.\n\nMylari South Indian Cafe already attracts 12400 profile views. Highlighting your active offer 'Weekday Lunch Thali @ \u20b9149' could help maintain visibility and attract more customers.\n\nWould you like 3 ideas to stay ahead?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_057_competitor_opened_m_044_vinod_pharmaci",
+    "merchant_id": "m_044_vinod_pharmacie_chennai",
+    "message": "A new competitor appears to be targeting customers near Porur.\n\nFamily Health Pharmacy already attracts 3421 profile views. Highlighting your active offer 'your healthcare products' could help maintain visibility and attract more customers.\n\nWould you like 3 ideas to stay ahead?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_058_competitor_opened_m_044_vinod_pharmaci",
+    "merchant_id": "m_044_vinod_pharmacie_chennai",
+    "message": "A new competitor appears to be targeting customers near Porur.\n\nFamily Health Pharmacy already attracts 3421 profile views. Highlighting your active offer 'your healthcare products' could help maintain visibility and attract more customers.\n\nWould you like 3 ideas to stay ahead?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_059_competitor_opened_m_017_dr_rajan_denti",
+    "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+    "message": "A new competitor appears to be targeting customers near Andheri West.\n\nCity Dental Clinic already attracts 5466 profile views. Highlighting your active offer 'your dental services' could help maintain visibility and attract more customers.\n\nWould you like 3 ideas to stay ahead?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_060_competitor_opened_m_041_akash_gym_hyde",
+    "merchant_id": "m_041_akash_gym_hyderabad",
+    "message": "A new competitor appears to be targeting customers near Gachibowli.\n\nFit Republic already attracts 3185 profile views. Highlighting your active offer 'your membership plans' could help maintain visibility and attract more customers.\n\nWould you like 3 ideas to stay ahead?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_061_festival_upcoming_m_037_pooja_gym_bang",
+    "merchant_id": "m_037_pooja_gym_bangalore",
+    "message": "the upcoming festival may increase demand around Bangalore.\n\nYour offer 'your membership plans' could help attract new customers.\n\nWould you like campaign ideas?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_062_festival_upcoming_m_015_dr_priya_denti",
+    "merchant_id": "m_015_dr_priya_dentist_chandigarh",
+    "message": "the upcoming festival may increase demand around Chandigarh.\n\nYour offer 'your dental services' could help attract new customers.\n\nWould you like campaign ideas?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_063_festival_upcoming_m_037_pooja_gym_bang",
+    "merchant_id": "m_037_pooja_gym_bangalore",
+    "message": "the upcoming festival may increase demand around Bangalore.\n\nYour offer 'your membership plans' could help attract new customers.\n\nWould you like campaign ideas?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_064_festival_upcoming_m_010_sunrisepharm_p",
+    "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+    "message": "the upcoming festival may increase demand around Lucknow.\n\nYour offer 'your healthcare products' could help attract new customers.\n\nWould you like campaign ideas?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_065_festival_upcoming_m_041_akash_gym_hyde",
+    "merchant_id": "m_041_akash_gym_hyderabad",
+    "message": "the upcoming festival may increase demand around Hyderabad.\n\nYour offer 'your membership plans' could help attract new customers.\n\nWould you like campaign ideas?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_066_recall_due_m_008_zenyoga_gym_ch",
+    "merchant_id": "m_008_zenyoga_gym_chennai",
+    "message": "A customer is due for scheduled service at Zen Yoga Studio.\n\nTimely follow-ups often increase repeat visits.\n\nWould you like a reminder draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_067_recall_due_m_004_glamour_salon_",
+    "merchant_id": "m_004_glamour_salon_pune",
+    "message": "A customer is due for scheduled service at Glamour Lounge Spa & Salon.\n\nTimely follow-ups often increase repeat visits.\n\nWould you like a reminder draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_068_recall_due_m_050_bharti_pharmac",
+    "merchant_id": "m_050_bharti_pharmacie_chennai",
+    "message": "A customer is due for scheduled service at Wellness Cart.\n\nTimely follow-ups often increase repeat visits.\n\nWould you like a reminder draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_069_recall_due_m_035_manisha_gym_de",
+    "merchant_id": "m_035_manisha_gym_delhi",
+    "message": "A customer is due for scheduled service at Vyayam Yoga.\n\nTimely follow-ups often increase repeat visits.\n\nWould you like a reminder draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_070_recall_due_m_045_vinod_pharmaci",
+    "merchant_id": "m_045_vinod_pharmacie_mumbai",
+    "message": "A customer is due for scheduled service at Family Health Pharmacy.\n\nTimely follow-ups often increase repeat visits.\n\nWould you like a reminder draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_071_customer_lapsed_soft_m_014_dr_asha_dentis",
+    "merchant_id": "m_014_dr_asha_dentist_chandigarh",
+    "message": "Some customers have not visited Asha Dental Care recently.\n\nA gentle reminder or limited-time offer could encourage another visit.\n\nWould you like a win-back campaign?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_072_customer_lapsed_soft_m_049_komal_pharmaci",
+    "merchant_id": "m_049_komal_pharmacie_lucknow",
+    "message": "Some customers have not visited Daily Care Medicos recently.\n\nA gentle reminder or limited-time offer could encourage another visit.\n\nWould you like a win-back campaign?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_073_customer_lapsed_soft_m_015_dr_priya_denti",
+    "merchant_id": "m_015_dr_priya_dentist_chandigarh",
+    "message": "Some customers have not visited Family Dental Centre recently.\n\nA gentle reminder or limited-time offer could encourage another visit.\n\nWould you like a win-back campaign?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_074_customer_lapsed_soft_m_037_pooja_gym_bang",
+    "merchant_id": "m_037_pooja_gym_bangalore",
+    "message": "Some customers have not visited Bend & Burn recently.\n\nA gentle reminder or limited-time offer could encourage another visit.\n\nWould you like a win-back campaign?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_075_customer_lapsed_soft_m_048_vinod_pharmaci",
+    "merchant_id": "m_048_vinod_pharmacie_mumbai",
+    "message": "Some customers have not visited Family Health Pharmacy recently.\n\nA gentle reminder or limited-time offer could encourage another visit.\n\nWould you like a win-back campaign?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_076_appointment_tomorrow_m_019_karim_salon_lu",
+    "merchant_id": "m_019_karim_salon_lucknow",
+    "message": "Karim's Salon has upcoming appointments scheduled.\n\nReminder messages can reduce missed visits.\n\nWould you like templates?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_077_appointment_tomorrow_m_020_renu_salon_luc",
+    "merchant_id": "m_020_renu_salon_lucknow",
+    "message": "Beauty Lounge by Renu has upcoming appointments scheduled.\n\nReminder messages can reduce missed visits.\n\nWould you like templates?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_078_appointment_tomorrow_m_006_southindiancaf",
+    "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+    "message": "Mylari South Indian Cafe has upcoming appointments scheduled.\n\nReminder messages can reduce missed visits.\n\nWould you like templates?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_079_appointment_tomorrow_m_017_dr_rajan_denti",
+    "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+    "message": "City Dental Clinic has upcoming appointments scheduled.\n\nReminder messages can reduce missed visits.\n\nWould you like templates?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_080_appointment_tomorrow_m_024_geeta_salon_ba",
+    "merchant_id": "m_024_geeta_salon_bangalore",
+    "message": "Glow Up Salon has upcoming appointments scheduled.\n\nReminder messages can reduce missed visits.\n\nWould you like templates?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_081_chronic_refill_due_m_011_dr_sameer_dent",
+    "merchant_id": "m_011_dr_sameer_dentist_bangalore",
+    "message": "Some customers may soon need repeat purchases or follow-ups.\n\nProactive outreach can improve retention and repeat business.\n\nWould you like campaign suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_082_chronic_refill_due_m_036_roshni_gym_ahm",
+    "merchant_id": "m_036_roshni_gym_ahmedabad",
+    "message": "Some members may be approaching their renewal cycle.\n\nA proactive reminder can help improve retention.\n\nWould you like a member re-engagement campaign?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_083_chronic_refill_due_m_041_akash_gym_hyde",
+    "merchant_id": "m_041_akash_gym_hyderabad",
+    "message": "Some members may be approaching their renewal cycle.\n\nA proactive reminder can help improve retention.\n\nWould you like a member re-engagement campaign?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_084_chronic_refill_due_m_031_suresh_restaur",
+    "merchant_id": "m_031_suresh_restaurant_jaipur",
+    "message": "Some customers may soon need repeat purchases or follow-ups.\n\nProactive outreach can improve retention and repeat business.\n\nWould you like campaign suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_085_chronic_refill_due_m_030_sandeep_restau",
+    "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+    "message": "Some customers may soon need repeat purchases or follow-ups.\n\nProactive outreach can improve retention and repeat business.\n\nWould you like campaign suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_086_trial_followup_m_038_pooja_gym_chan",
+    "merchant_id": "m_038_pooja_gym_chandigarh",
+    "message": "Someone recently showed interest in your membership plans.\n\nA quick follow-up often improves conversion rates.\n\nWould you like a follow-up draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_087_trial_followup_m_050_bharti_pharmac",
+    "merchant_id": "m_050_bharti_pharmacie_chennai",
+    "message": "Someone recently showed interest in your healthcare products.\n\nA quick follow-up often improves conversion rates.\n\nWould you like a follow-up draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_088_trial_followup_m_040_karan_gym_ahme",
+    "merchant_id": "m_040_karan_gym_ahmedabad",
+    "message": "Someone recently showed interest in your membership plans.\n\nA quick follow-up often improves conversion rates.\n\nWould you like a follow-up draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_089_trial_followup_m_043_komal_pharmaci",
+    "merchant_id": "m_043_komal_pharmacie_ahmedabad",
+    "message": "Someone recently showed interest in your healthcare products.\n\nA quick follow-up often improves conversion rates.\n\nWould you like a follow-up draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_090_trial_followup_m_038_pooja_gym_chan",
+    "merchant_id": "m_038_pooja_gym_chandigarh",
+    "message": "Someone recently showed interest in your membership plans.\n\nA quick follow-up often improves conversion rates.\n\nWould you like a follow-up draft?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_091_renewal_due_m_048_vinod_pharmaci",
+    "merchant_id": "m_048_vinod_pharmacie_mumbai",
+    "message": "Family Health Pharmacy generated 5870 views and 3 leads recently.\n\nYour subscription is approaching renewal.\n\nWould you like a performance summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_092_renewal_due_m_033_anand_restaura",
+    "merchant_id": "m_033_anand_restaurant_bangalore",
+    "message": "Chai Point Cafe generated 2349 views and 2 leads recently.\n\nYour subscription is approaching renewal.\n\nWould you like a performance summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_093_renewal_due_m_049_komal_pharmaci",
+    "merchant_id": "m_049_komal_pharmacie_lucknow",
+    "message": "Daily Care Medicos generated 3384 views and 34 leads recently.\n\nYour subscription is approaching renewal.\n\nWould you like a performance summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_094_renewal_due_m_021_paras_salon_ch",
+    "merchant_id": "m_021_paras_salon_chandigarh",
+    "message": "Paras Hair & Beauty generated 4171 views and 20 leads recently.\n\nYour subscription is approaching renewal.\n\nWould you like a performance summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_095_renewal_due_m_039_karan_gym_jaip",
+    "merchant_id": "m_039_karan_gym_jaipur",
+    "message": "Iron Forge Fitness generated 2055 views and 3 leads recently.\n\nYour subscription is approaching renewal.\n\nWould you like a performance summary?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_096_curious_ask_due_m_006_southindiancaf",
+    "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+    "message": "You recently explored growth ideas for Mylari South Indian Cafe.\n\nThere may be opportunities around Indiranagar worth testing.\n\nWould you like suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_097_curious_ask_due_m_041_akash_gym_hyde",
+    "merchant_id": "m_041_akash_gym_hyderabad",
+    "message": "You recently explored growth ideas for Fit Republic.\n\nThere may be opportunities around Gachibowli worth testing.\n\nWould you like suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_098_curious_ask_due_m_039_karan_gym_jaip",
+    "merchant_id": "m_039_karan_gym_jaipur",
+    "message": "You recently explored growth ideas for Iron Forge Fitness.\n\nThere may be opportunities around Jhotwara worth testing.\n\nWould you like suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_099_curious_ask_due_m_048_vinod_pharmaci",
+    "merchant_id": "m_048_vinod_pharmacie_mumbai",
+    "message": "You recently explored growth ideas for Family Health Pharmacy.\n\nThere may be opportunities around Borivali worth testing.\n\nWould you like suggestions?",
+    "health_score": 100
+  },
+  {
+    "trigger_id": "trg_100_curious_ask_due_m_021_paras_salon_ch",
+    "merchant_id": "m_021_paras_salon_chandigarh",
+    "message": "You recently explored growth ideas for Paras Hair & Beauty.\n\nThere may be opportunities around Panchkula worth testing.\n\nWould you like suggestions?",
+    "health_score": 100
+  }
+]
